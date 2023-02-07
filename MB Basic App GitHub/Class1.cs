@@ -10,7 +10,7 @@ namespace MB_Basic_App_GitHub
         public String Name;
         public Class1()
         {
-            Name = "[Malachi Burks] - The Code Master";
+            Name = "[Malachi Burks] - The Code Master GitHub";
         }
     }
 }
