@@ -1,0 +1,18 @@
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.pdb
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\MB Basic App GitHub.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\MB Basic App GitHub.pdb
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\MB Basic App GitHub.dll.config
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.AssemblyReference.cache
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CoreCompileInputs.cache
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CopyComplete
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.dll
+C:\Users\maburks\source\repos\MB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.pdb
