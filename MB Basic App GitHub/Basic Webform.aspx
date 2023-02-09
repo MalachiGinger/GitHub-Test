@@ -12,6 +12,7 @@
             <%MB_Basic_App_GitHub.Class1 tp = new MB_Basic_App_GitHub.Class1(); %>
 
             <%=tp.Name %>
+            test1
         </div>
     </form>
 </body>
